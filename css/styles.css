@@ -220,7 +220,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #867626;
 }
 
 sub,
@@ -612,7 +612,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #6c757d;
+  color: #13334e;
 }
 
 .blockquote-footer::before {
@@ -644,7 +644,7 @@ progress {
 
 .figure-caption {
   font-size: 0.875em;
-  color: #6c757d;
+  color: #165286;
 }
 
 .container,
@@ -4302,6 +4302,26 @@ fieldset:disabled .btn {
 .dropdown-menu-dark .dropdown-item.disabled,
 .dropdown-menu-dark .dropdown-item:disabled {
   color: #adb5bd;
+}
+
+#contactForm {
+  background-color: var(--bs-cyan);
+}
+
+#contactForm1 {
+  background-color: var(--bs-cyan);
+}
+
+#contactForm2 {
+  background-color: var(--bs-cyan);
+}
+
+#services {
+  background-color: var(--bs-cyan);
+}
+
+#contact {
+  background-color: var(--bs-cyan);
 }
 
 .dropdown-menu-dark .dropdown-divider {
